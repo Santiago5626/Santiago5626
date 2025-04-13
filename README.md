@@ -22,5 +22,4 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 ## 📫 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/santiagolobo0909)
-- [Twitter](https://twitter.com/santiago0909)
 - [Dev.to](https://dev.to/santiago0909)
