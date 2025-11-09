@@ -7,7 +7,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 - 🌱 I’m currently learning more about cloud computing and DevOps practices.
 - 👯 I’m looking to collaborate on open-source projects that make a difference.
 - 💬 Ask me about web development, Python, JavaScript, and cloud technologies.
-- 📫 How to reach me: santiago0909@mail.com
+- 📫 How to reach me: santiagolobo0909@gmail.com
 - ⚡ Fun fact: I love hiking and exploring nature during my free time.
 
 ## 🛠️ Tech Stack
