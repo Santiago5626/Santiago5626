@@ -16,7 +16,7 @@ I'm a passionate developer who loves coding and contributing to open-source proj
 - **Frontend**: React,  HTML5, CSS3
 - **Backend**: Node.js, Flask
 - **Databases**: MySQL, SQLPLUS, SQLSERVER
-- **Cloud**: AWS, Azure, Google Cloud Platform
+- **Cloud**: Google Cloud Platform
 
 
 ## 📫 Connect with Me
