@@ -1,44 +1,50 @@
-<h3 align="center">Software Developer • Backend • Web Development • Cloud Computing</h3>
+<div align="center">
 
-<p align="center">
+## Hi, I'm Santiago Lobo
+
+Software Developer • Backend • Web Development • Cloud Computing
+
 Building scalable applications and continuously improving my software engineering skills.
-</p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/santiagolobo0909">LinkedIn</a> •
-<a href="mailto:santiagolobo0909@gmail.com">Email</a>
-</p>
+<a href="https://www.linkedin.com/in/santiagolobo0909">LinkedIn</a> • <a href="mailto:santiagolobo0909@gmail.com">Email</a>
+
+</div>
 
 ---
 
 ### About Me
 
-Software developer passionate about building useful, maintainable and scalable solutions.
-
-Currently improving my knowledge in backend development, software architecture, cloud computing and DevOps through personal and academic projects.
+* Building web applications and backend systems
+* Learning Cloud Computing and DevOps
+* Improving software architecture skills
+* Developing projects that solve real-world problems
 
 ### Tech Stack
 
-`Python` `Java` `C#` `JavaScript`
+<div align="center">
 
-`React` `Node.js` `Flask`
+<img src="https://skillicons.dev/icons?i=python,java,cs,javascript,react,nodejs,fastapi,mysql,git" />
 
-`MySQL` `SQL Server` `Google Cloud`
+</div>
 
 ### Current Focus
 
-* Backend development
-* Software architecture
-* Cloud computing
+* Backend Development
+* Software Architecture
+* Cloud Computing
 * DevOps
-* Scalable systems
+* Scalable Systems
 
 ### GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Santiago5626&show_icons=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago5626&layout=compact"/>
 
-</p>
+</div>
+
+---
+
+> Building technology that is useful, maintainable and ready to grow.
