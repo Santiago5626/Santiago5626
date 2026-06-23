@@ -1,25 +1,36 @@
-# Hi there, I'm Santiago! 👋
+# Hola, soy Santiago Lobo de la Hoz
 
-I'm a passionate developer who loves coding and contributing to open-source projects. Here you'll find a little about me and what I do.
+Desarrollador de software apasionado por la creación de soluciones tecnológicas que combinen funcionalidad, eficiencia y una buena experiencia de usuario.
 
-## 🚀 About Me
+Me enfoco en el desarrollo de aplicaciones web, sistemas backend y la construcción de proyectos escalables, manteniendo siempre buenas prácticas de programación, código limpio y una mentalidad de aprendizaje continuo.
 
-- 🌱 I’m currently learning more about cloud computing and DevOps practices.
-- 👯 I’m looking to collaborate on open-source projects that make a difference.
-- 💬 Ask me about web development, Python, JavaScript, and cloud technologies.
-- 📫 How to reach me: santiagolobo0909@gmail.com
-- ⚡ Fun fact: I love hiking and exploring nature during my free time.
+Actualmente, sigo fortaleciendo mis conocimientos en arquitectura de software, computación en la nube y DevOps, mientras desarrollo proyectos personales que me permiten explorar nuevas tecnologías y enfrentar desafíos reales.
 
-## 🛠️ Tech Stack
+## Áreas de interés
 
-- **Languages**: Python, c#, java, javaScript
-- **Frontend**: React,  HTML5, CSS3
-- **Backend**: Node.js, Flask
-- **Databases**: MySQL, SQLPLUS, SQLSERVER
-- **Cloud**: Google Cloud Platform
+* Desarrollo web full-stack
+* Desarrollo backend y APIs
+* Cloud Computing
+* DevOps y automatización
+* Arquitectura de software
+* Sistemas escalables
 
+## Tecnologías
 
-## 📫 Connect with Me
+**Lenguajes:** Python, Java, C#, JavaScript
 
-- [LinkedIn](www.linkedin.com/in/santiagolobo0909)
-- [Dev.to](https://dev.to/santiago0909)
+**Frontend:** React, HTML5, CSS3
+
+**Backend:** Node.js, Flask
+
+**Bases de datos:** MySQL, SQL Server
+
+**Cloud:** Google Cloud Platform (GCP)
+
+## Mi enfoque profesional
+
+Busco participar en proyectos donde la tecnología genere un impacto real, aportando soluciones bien estructuradas, mantenibles y preparadas para evolucionar con el tiempo.
+
+Creo en el aprendizaje constante, la colaboración y la mejora continua como pilares fundamentales para crecer como profesional.
+
+📧 Contacto: [santiagolobo0909@gmail.com](mailto:santiagolobo0909@gmail.com)
