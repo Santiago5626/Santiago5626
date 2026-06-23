@@ -1,36 +1,81 @@
-# Hola, soy Santiago Lobo de la Hoz
+<!-- Banner opcional -->
 
-Desarrollador de software apasionado por la creación de soluciones tecnológicas que combinen funcionalidad, eficiencia y una buena experiencia de usuario.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Santiago%20Lobo&fontSize=50&animation=fadeIn&fontAlignY=35"/>
 
-Me enfoco en el desarrollo de aplicaciones web, sistemas backend y la construcción de proyectos escalables, manteniendo siempre buenas prácticas de programación, código limpio y una mentalidad de aprendizaje continuo.
+<h1 align="center">
+Hi 👋 I'm Santiago Lobo
+</h1>
 
-Actualmente, sigo fortaleciendo mis conocimientos en arquitectura de software, computación en la nube y DevOps, mientras desarrollo proyectos personales que me permiten explorar nuevas tecnologías y enfrentar desafíos reales.
+<h3 align="center">
+Software Developer from Colombia 🇨🇴
+</h3>
 
-## Áreas de interés
+<p align="center">
+Building web applications, backend systems and scalable solutions.
+</p>
 
-* Desarrollo web full-stack
-* Desarrollo backend y APIs
-* Cloud Computing
-* DevOps y automatización
-* Arquitectura de software
-* Sistemas escalables
+<p align="center">
+I enjoy turning ideas into useful products while continuously learning about software architecture, cloud technologies and modern engineering practices.
+</p>
 
-## Tecnologías
+---
 
-**Lenguajes:** Python, Java, C#, JavaScript
+## 🚀 Currently
 
-**Frontend:** React, HTML5, CSS3
+* 🔭 Building personal and academic projects
+* 🌱 Learning Cloud Computing and DevOps
+* 🏗️ Improving Software Architecture skills
+* 💡 Exploring scalable system design
+* 🤝 Open to collaborations and new opportunities
 
-**Backend:** Node.js, Flask
+## 🛠️ Tech Stack
 
-**Bases de datos:** MySQL, SQL Server
+<p align="left">
 
-**Cloud:** Google Cloud Platform (GCP)
+<img src="https://skillicons.dev/icons?i=python,java,cs,javascript,react,nodejs,flask,mysql,gcp,git,vscode"/>
 
-## Mi enfoque profesional
+</p>
 
-Busco participar en proyectos donde la tecnología genere un impacto real, aportando soluciones bien estructuradas, mantenibles y preparadas para evolucionar con el tiempo.
+## 📌 Featured Work
 
-Creo en el aprendizaje constante, la colaboración y la mejora continua como pilares fundamentales para crecer como profesional.
+* ⚡ Full-stack web applications
+* ⚡ Backend APIs and business logic
+* ⚡ Database-driven systems
+* ⚡ Cloud learning projects
+* ⚡ Software engineering practices
 
-📧 Contacto: [santiagolobo0909@gmail.com](mailto:santiagolobo0909@gmail.com)
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santiago5626&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago5626&layout=compact"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Santiago5626"/>
+
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/santiagolobo0909">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:santiagolobo0909@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+💼 LinkedIn: linkedin.com/in/santiagolobo0909
+
+📧 Email: [santiagolobo0909@gmail.com](mailto:santiagolobo0909@gmail.com)
+
+📍 Colombia
