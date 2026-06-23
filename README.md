@@ -1,81 +1,48 @@
-<!-- Banner opcional -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Santiago%20Lobo&fontSize=50&animation=fadeIn&fontAlignY=35"/>
-
-<h1 align="center">
-Hi 👋 I'm Santiago Lobo
-</h1>
-
-<h3 align="center">
-Software Developer from Colombia 🇨🇴
-</h3>
+<h1 align="center">Hi, I'm Santiago Lobo 👋</h1>
 
 <p align="center">
-Building web applications, backend systems and scalable solutions.
+Software Developer • Backend • Web Development • Cloud Computing
 </p>
 
 <p align="center">
-I enjoy turning ideas into useful products while continuously learning about software architecture, cloud technologies and modern engineering practices.
+Building scalable applications and continuously learning modern software engineering practices.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/santiagolobo0909">LinkedIn</a> •
+<a href="mailto:santiagolobo0909@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 Currently
+### About me
 
-* 🔭 Building personal and academic projects
-* 🌱 Learning Cloud Computing and DevOps
-* 🏗️ Improving Software Architecture skills
-* 💡 Exploring scalable system design
-* 🤝 Open to collaborations and new opportunities
+* Building web applications and backend systems
+* Learning Cloud Computing and DevOps
+* Improving software architecture skills
+* Working on personal and academic projects
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-<p align="left">
+`Python` `Java` `C#` `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,javascript,react,nodejs,flask,mysql,gcp,git,vscode"/>
+`React` `Node.js` `Flask`
 
-</p>
+`MySQL` `SQL Server` `Google Cloud`
 
-## 📌 Featured Work
+### Current Focus
 
-* ⚡ Full-stack web applications
-* ⚡ Backend APIs and business logic
-* ⚡ Database-driven systems
-* ⚡ Cloud learning projects
-* ⚡ Software engineering practices
+* Scalable systems
+* Clean code
+* Software architecture
+* Open Source
 
-## 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santiago5626&show_icons=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Santiago5626&show_icons=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago5626&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Santiago5626"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago5626&layout=compact"/>
 
 </p>
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/santiagolobo0909">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:santiagolobo0909@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
-💼 LinkedIn: linkedin.com/in/santiagolobo0909
-
-📧 Email: [santiagolobo0909@gmail.com](mailto:santiagolobo0909@gmail.com)
-
-📍 Colombia
