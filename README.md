@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Santiago Lobo 👋</h1>
+<h3 align="center">Software Developer • Backend • Web Development • Cloud Computing</h3>
 
 <p align="center">
-Software Developer • Backend • Web Development • Cloud Computing
-</p>
-
-<p align="center">
-Building scalable applications and continuously learning modern software engineering practices.
+Building scalable applications and continuously improving my software engineering skills.
 </p>
 
 <p align="center">
@@ -15,12 +11,11 @@ Building scalable applications and continuously learning modern software enginee
 
 ---
 
-### About me
+### About Me
 
-* Building web applications and backend systems
-* Learning Cloud Computing and DevOps
-* Improving software architecture skills
-* Working on personal and academic projects
+Software developer passionate about building useful, maintainable and scalable solutions.
+
+Currently improving my knowledge in backend development, software architecture, cloud computing and DevOps through personal and academic projects.
 
 ### Tech Stack
 
@@ -32,17 +27,18 @@ Building scalable applications and continuously learning modern software enginee
 
 ### Current Focus
 
-* Scalable systems
-* Clean code
+* Backend development
 * Software architecture
-* Open Source
+* Cloud computing
+* DevOps
+* Scalable systems
 
 ### GitHub Stats
 
 <p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Santiago5626&show_icons=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santiago5626&show_icons=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago5626&layout=compact"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago5626&layout=compact"/>
 
 </p>
